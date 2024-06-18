@@ -14,13 +14,13 @@ Welcome to the To-Do List App! 📅 This application allows users to manage task
 
 ## 📸 Screenshots
 
-![To-Do List App Screenshot](images/screenshot.png)
+![To-Do List App Screenshot](images/Screenshot.png)
 
 ## 📹 Demo Video
 
 Watch our demo video on YouTube to see the To-Do List App in action:
 
-[![To-Do List App Demo](https://img.youtube.com/vi/YnHYYVFkBlQ/maxresdefault.jpg)](https://youtu.be/YnHYYVFkBlQ)
+[![To-Do List App Demo](https://i3.ytimg.com/vi/YnHYYVFkBlQ/maxresdefault.jpg)](https://youtu.be/YnHYYVFkBlQ)
 
 ## 🛠️ Technologies Used
 
