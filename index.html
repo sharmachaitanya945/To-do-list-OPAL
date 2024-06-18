@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do_List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="login-container" class="login-container">
+        <h2>Login</h2>
+        <button onclick="login('admin')">Login as Admin</button>
+        <button onclick="login('guest')">Login as Guest</button>
+    </div>
+    <div id="app-container" class="container" style="display:none;">
+        <div class="todo-app">
+            <h2>To-Do List<img src="images/icon.png"></h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add your text">
+                <button id=add-button onclick="addTask()">Add</button>
+            </div>
+            <ul id="list-container"></ul>
+        </div>
+        <button class="switch-button" onclick="switchUser()">Switch User</button>
+    </div>
+    
+    <footer>
+        <p>This project uses OPAL</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
